@@ -2,7 +2,7 @@
 App Link  - http://34.16.216.144:5001/
 
 # Title
-CinePulse – Emotion-Based Movie Ranker (To find the real enjoyment index)
+CinePulse - Emotion-Based Movie Ranker (To find the real enjoyment index)
 
 ## Group 5 Members
 Dabas Rashika (101458141), Dimaculangan Roan Kathrina (101475014), Ip Chak Leung Vincent (101476107) and Suresh Priyanka Yadhav (101473379)
