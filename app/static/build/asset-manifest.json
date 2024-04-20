@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c70493c.css",
+    "main.js": "/static/js/main.c7a0b6ee.js",
+    "static/media/cinema-footer.png": "/static/media/cinema-footer.3f530c770db2a4490f29.png",
+    "static/media/gravity_poster.webp": "/static/media/gravity_poster.4ae2b2c1812cc02180d8.webp",
+    "static/media/cinema-banner.png": "/static/media/cinema-banner.58053ea6e0564af7edf0.png",
+    "static/media/arrival_poster.jpg": "/static/media/arrival_poster.86e2fa67669137c32256.jpg",
+    "static/media/matrix_poster.jpg": "/static/media/matrix_poster.f7abb13e2e3dc53ee1e6.jpg",
+    "static/media/martian_poster.jpg": "/static/media/martian_poster.356e809c3488e30f65c0.jpg",
+    "static/media/blade_runner_poster.jpg": "/static/media/blade_runner_poster.7878390cbb4850115b2e.jpg",
+    "static/media/inception_poster.jpg": "/static/media/inception_poster.693978fd5d91c3b804f7.jpg",
+    "static/media/avatar_poster.jpg": "/static/media/avatar_poster.8c3870644b8695c00f5a.jpg",
+    "static/media/interstellar_poster.webp": "/static/media/interstellar_poster.ae8282cc2fa44a0e2b91.webp",
+    "static/media/prestige_poster.jpg": "/static/media/prestige_poster.4bf30bdf4a8b95af2eba.jpg",
+    "static/media/dune_poster.webp": "/static/media/dune_poster.2119caa5695309605ecf.webp",
+    "static/media/live_review_image.jpg": "/static/media/live_review_image.827d46cac1656bd569e5.jpg",
+    "index.html": "/index.html",
+    "main.3c70493c.css.map": "/static/css/main.3c70493c.css.map",
+    "main.c7a0b6ee.js.map": "/static/js/main.c7a0b6ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c70493c.css",
+    "static/js/main.c7a0b6ee.js"
+  ]
+}
