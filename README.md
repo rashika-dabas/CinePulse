@@ -1,11 +1,7 @@
 # CinePulse
-App Link  - http://34.16.216.144:5001/
 
-# Title
+## Title
 CinePulse - Emotion-Based Movie Ranker (To find the real enjoyment index)
-
-## Group 5 Members
-Dabas Rashika (101458141), Dimaculangan Roan Kathrina (101475014), Ip Chak Leung Vincent (101476107) and Suresh Priyanka Yadhav (101473379)
 
 ## Problem Statement
 The major movie awards, including the Oscars, Berlinale, Venice Film Festival, Cannes Film Festival, and Toronto International Film Festival, play crucial roles in recognizing excellence, fostering global collaboration, and promoting artistic diversity in cinema. Traditionally, these awards relied on methods like voting and reviews, but criticisms of bias and scandals have prompted a decline in public trust. In today's landscape, there's a shift towards data-driven approaches, with platforms like YouTube influencing perceptions of film success. Emerging technologies like AI Emotion Detection offer new ways to understand audience reactions, expanding the pathways to achieve recognition and acclaim in the film industry.
