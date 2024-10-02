@@ -51,7 +51,7 @@ The application was dockerized and deployed onto Google Cloud Platform, as shown
 ![Pulled Image](./images/pulledimage.png)
 
 ## Conclusion
-An emotional-based movie ranker using face recognition and emotion detection was successfully built. The validation process underscores the significance of having a thorough training dataset, taking into account user behaviour, and possibly grouping akin emotions to bolster performance. Moreover, elements such as product image, description, and price could sway user reactions. By attending to these facets, we can augment the tool's capacity to precisely gauge customer emotions in reaction to different products.
+An emotion-based movie ranker using face recognition and emotion detection was successfully built. The validation process underscores the significance of having a thorough training dataset, taking into account user behaviour, and possibly grouping akin emotions to bolster performance. Moreover, elements such as product image, description, and price could sway user reactions. By attending to these facets, we can augment the tool's capacity to precisely gauge customer emotions in reaction to different products.
 
 ## Recommendations
 1. Enhance Dataset: To enrich dataset by including a wider spectrum of facial expressions, encompassing diverse cultural nuancesand emotions.
